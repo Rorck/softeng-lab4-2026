@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- Primary TORPEDO
+SUCCESS  # <- Secondary is empty, so the second primary is fired

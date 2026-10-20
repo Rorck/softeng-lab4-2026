@@ -1,0 +1,4 @@
+# If a store is empty, the ship tries to fire the other one
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
