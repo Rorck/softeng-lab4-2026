@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- Primary TORPEDO
+FAIL  # <- Secondary should fail

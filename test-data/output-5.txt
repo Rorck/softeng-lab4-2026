@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- Primary and Secondary TORPEDO
+FAIL  # <- No more TORPEDO
